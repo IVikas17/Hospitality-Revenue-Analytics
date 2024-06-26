@@ -106,5 +106,4 @@ The Power BI dashboard includes the following KPIs and visualizations:
 
 # Conclusion
 
-## Project Overview
 This project highlights the deployment of a Power BI-based business intelligence solution for AtliQ Grands, aimed at leveraging historical data to optimize operations and regain market share in luxury/business hotels. By analyzing occupancy rates, average ratings, and booking platform efficiencies, the dashboard offers actionable insights to enhance pricing strategies, improve customer satisfaction, and drive direct bookings. This initiative underscores the importance of data-driven decision-making in maintaining competitiveness and achieving strategic goals in the hospitality sector.
